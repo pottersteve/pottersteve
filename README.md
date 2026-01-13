@@ -1,3 +1,3 @@
 <div align=center>
-  <img src="./generated/top-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pottersteve"/>
 </div>
